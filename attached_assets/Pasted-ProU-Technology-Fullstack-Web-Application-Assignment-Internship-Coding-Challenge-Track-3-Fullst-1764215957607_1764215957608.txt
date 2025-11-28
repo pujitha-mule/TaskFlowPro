@@ -1,0 +1,146 @@
+ProU Technology
+
+Fullstack Web Application Assignment
+
+Internship Coding Challenge – Track 3: Fullstack (Frontend + API + Database)
+
+1. Scenario
+
+
+
+You’ve joined a small so0ware team developing an Employee Task Tracker - a complete internal tool
+
+for managing tasks within a company.
+
+The product team has provided the func>onal requirements, and you are responsible for building
+
+both the frontend and backend that work together as one integrated system.
+
+The system should allow:
+
+• Viewing all employees and their tasks
+
+• Adding and upda>ng tasks
+
+• Filtering tasks by status or employee
+
+• Viewing a simple dashboard summary (e.g., total tasks, comple>on rate)
+
+You can use any modern tech stack you’re comfortable with (for example):
+
+• Frontend: React / Vue / Angular
+
+• Backend: Node.js + Express / Python + FastAPI / Java + Spring Boot
+
+• Database: SQLite / MySQL / PostgreSQL / MongoDB
+
+2. Expected Outcome
+
+
+
+A fully working web app that:
+
+• Displays and manages employees and tasks
+
+• Persists data using a real database
+
+• Communicates between frontend and backend via REST API
+
+• Has a clean, responsive user interface
+
+3. Deliverables
+
+
+
+Please submit the following via GitHub (single repository or monorepo structure):
+
+• Frontend Source Code
+
+• Backend Source Code
+
+• Database Schema / MigraBon Script
+
+• Sample Data (op>onal)
+
+• README.md that includes:
+
+o Tech stack and architecture overview
+
+o Setup & run instruc>ons (for both frontend & backend)
+
+o API endpoint documenta>on
+
+o Screenshots or screen recording (if possible)
+
+o Any assump>ons or limita>ons
+Instructions
+
+• The frontend must communicate with the backend API (no mock data).
+
+• Store all data in a proper database.
+
+• Use modern best practices:
+
+o Frontend: Component structure, state management, responsive design
+
+o Backend: RESTful design, validation, error handling
+
+o Database: Relationships and foreign keys (Employee ↔ Task)
+
+• Use environment variables for API URLs and config
+
+• Keep the UI simple but functional
+
+5. Focus Areas (Evaluation Criteria)
+
+
+
+Area What we look for
+
+Architecture Clear separa>on between frontend, backend, and DB layers
+
+API Integra>on Smooth communica>on between UI and API (no hardcoding
+
+Code Quality Modular, readable, and consistent naming conven>ons
+
+UI/UX Clean, intui>ve design and responsiveness
+
+Data Persistence Proper CRUD opera>ons with a database
+
+Documenta>on Setup clarity, endpoint list, and how to test the app
+
+6. Bonus Challenge (Optional)
+
+
+
+Add user authenBcaBon and role-based access:
+
+• Admin can add/update/delete tasks and employees
+
+• Regular users can view their assigned tasks only
+
+This demonstrates your understanding of authen>ca>on, authoriza>on, and real-world app flow.
+
+7. Estimated Time
+
+
+
+8–10 hours (spread over 2–3 signgs).
+
+8. Example ArchitectureExample API Flow
+
+
+
+Frontend AcBons → Backend Endpoints → Database
+
+Ac>on API Endpoint Database Table
+
+View all employees GET /employees Employees
+
+View all tasks GET /tasks Tasks
+
+Add new task POST /tasks Tasks
+
+Update task status PUT /tasks/:id Tasks
+
+View summary GET /dashboard Calculated from both tableso

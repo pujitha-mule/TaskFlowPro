@@ -1,0 +1,93 @@
+Dear Pujitha Mule
+
+Greetings from ProU Technology!
+
+We are pleased to inform you that you have been shortlisted for the Online Assessment Round. Based on your selection (Track 3 – Full-stack Development), you may begin the assessment from 26th November 2025. Please ensure that you submit your completed assessment on or before 28th November 2025.
+
+Note: Kindly go through the below provided instructions carefully before starting your assessment for
+
+Track 3 – Full-stack Development.
+
+Instructions :
+
+Track 3 – Full-stack Development
+Fullstack - Web + API + Database
+
+
+Focus Area
+Combined Frontend + Backend
+
+HTML/CSS/JS, React/Vue/Angular & Node.js/FastAPI/Spring Boot + DB
+
+Description
+Build an integrated web app with both frontend UI and backend APIs connected to a database
+
+Development Environment:
+·         You can use any framework or language of your choice.
+
+·         Build an integrated web app with both frontend UI and backend APIs connected to a database.
+
+Example stacks:
+
+·         Frontend: React / Vue / Angular
+
+·         Backend: Node.js / Python / Java
+
+·         Database: SQLite / MySQL / PostgreSQL / MongoDB
+
+Submission Requirements:
+§  Upload your project to GitHub (make it public) & Share the same via email to :
+
+vasudharini.s@prou.com.au & pavithra.mannar@prou.com.au
+
+§  Include a README.md with:
+
+§  Setup steps
+
+§  Tech stack used
+
+§  Screenshots or short screen recording
+
+§  Any assumptions or bonus features implemented
+
+Evaluation Criteria:
+§  Code readability and structure
+
+§  Design and usability (for frontend)
+
+§  API and data model design (for backend)
+
+§  Documentation and presentation
+
+§  Completion of bonus challenges
+
+Timeline:
+·         Complete and submit within 3 days from assignment date.
+
+·         Late submissions may not be evaluated unless pre-approved.
+
+·         Do not copy code from public sources – originality will be checked.
+
+Bonus Points
+·         You’ll receive bonus credit if you:
+
+·         Attempt more than one track
+
+·         Include deployment (e.g., Netlify, Render, or Railway demo links)
+
+·         Implement authentication or advanced UI features
+
+·         Demonstrate creative thinking in UX or data visualization
+
+ 
+
+Kindly acknowledge receipt of this email.
+
+Wishing you all the best!
+
+Thanks and Regards,
+S.Vasudharini
+
+Email - vasudharini.s@prou.com.au
+
+Team ProU Technology
